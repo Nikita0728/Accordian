@@ -1,0 +1,35 @@
+.title {
+    background :rgb(173, 124, 124);
+    align-content: center;
+    margin-bottom: 50px;
+    cursor: pointer;
+    
+}
+.firstWrap{
+    display:flex;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: beige;
+    
+}
+.answers{
+    color: white;
+    
+}
+.showButton
+{
+    background-color: bisque;
+}
+.showButton:hover{
+    color: rgb(69, 69, 127);
+    background-color: rgb(218, 163, 163);
+}
+.hideButton
+{
+    background-color: bisque;
+}
+.hideButton:hover{
+    color: rgb(69, 69, 127);
+    background-color: rgb(218, 163, 163);
+}
